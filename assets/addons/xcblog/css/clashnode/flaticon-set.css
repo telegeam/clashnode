@@ -1,0 +1,79 @@
+  /*
+    Flaticon icon font: Flaticon
+    Creation date: 08/09/2018 00:19
+    */
+
+@font-face {
+  font-family: "Flaticon";
+  src: url(/clashnode/assets/addons/xcblog/fonts/clashnode/Flaticon.eot");
+  src: url(/clashnode/assets/addons/xcblog/fonts/clashnode/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url(/clashnode/assets/addons/xcblog/fonts/clashnode/Flaticon.woff") format("woff"),
+       url(/clashnode/assets/addons/xcblog/fonts/clashnode/Flaticon.ttf") format("truetype"),
+       url(/clashnode/assets/addons/xcblog/fonts/clashnode/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-faculty-shield:before { content: "\f100"; }
+.flaticon-online-learning:before { content: "\f101"; }
+.flaticon-online-learning-1:before { content: "\f102"; }
+.flaticon-online-learning-2:before { content: "\f103"; }
+.flaticon-online-learning-3:before { content: "\f104"; }
+.flaticon-learning:before { content: "\f105"; }
+.flaticon-online-lesson:before { content: "\f106"; }
+.flaticon-plan:before { content: "\f107"; }
+.flaticon-mortarboard:before { content: "\f108"; }
+.flaticon-computer:before { content: "\f109"; }
+.flaticon-elearning:before { content: "\f10a"; }
+.flaticon-brain:before { content: "\f10b"; }
+.flaticon-innovation:before { content: "\f10c"; }
+.flaticon-knowledge:before { content: "\f10d"; }
+.flaticon-meeting:before { content: "\f10e"; }
+.flaticon-engineer:before { content: "\f10f"; }
+.flaticon-engineer-1:before { content: "\f110"; }
+.flaticon-computer-1:before { content: "\f111"; }
+.flaticon-laptop:before { content: "\f112"; }
+.flaticon-computer-2:before { content: "\f113"; }
+.flaticon-science:before { content: "\f114"; }
+.flaticon-book-1:before { content: "\f115"; }
+.flaticon-book:before { content: "\f116"; }
+.flaticon-library:before { content: "\f117"; }
+.flaticon-reading-book:before { content: "\f118"; }
+.flaticon-teacher:before { content: "\f119"; }
+.flaticon-teacher-1:before { content: "\f11a"; }
+.flaticon-teacher-2:before { content: "\f11b"; }
+.flaticon-teacher-3:before { content: "\f11c"; }
+.flaticon-maps-and-location:before { content: "\f11d"; }
+.flaticon-location:before { content: "\f11e"; }
+.flaticon-pin:before { content: "\f11f"; }
+.flaticon-call:before { content: "\f120"; }
+.flaticon-telephone:before { content: "\f121"; }
+.flaticon-email:before { content: "\f122"; }
+.flaticon-time:before { content: "\f123"; }
+.flaticon-quotation:before { content: "\f124"; }
+.flaticon-mortarboard-1:before { content: "\f125"; }
+.flaticon-global-education:before { content: "\f126"; }
+.flaticon-global-education-1:before { content: "\f127"; }
+.flaticon-open-book:before { content: "\f128"; }
