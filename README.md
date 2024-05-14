@@ -15,8 +15,50 @@
 
 <a href="https://telegeam.github.io/clashv2rayshare" target="_blank">点击跳转</a>
 
-## 更多clash节点订阅 ：
+## 更多节点订阅 ：
 
+### 高速机场推荐1 快猫
+高速机场推荐1 [【快猫】](https://kuaimao.io/#/register?code=9xg6G0AV)
+季付送小火箭，流量多，优惠多
+
+而且不限登录设备数，解锁奈飞
+
+👉[[点击注册]](https://kuaimao.io/#/register?code=9xg6G0AV)
+
+### 高速机场推荐2 FCCloud
+
+👉高速机场推荐2  [【FCCloud】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+解锁奈飞迪士尼
+
+👉注册地址： [【FCCloud官网（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+
+### 高速机场推荐3 轻云
+
+👉高速机场推荐3  [【轻云】](https://a1.qingyun.site/#/register?code=tIk5c8YQ)
+原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+解锁奈飞迪士尼
+
+👉注册地址： [【轻云官网（点击注册）】](https://a1.qingyun.site/#/register?code=tIk5c8YQ)
+
+### 高速机场推荐4 EFCloud
+
+高速机场推荐4[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+
+线路优势
+多地中转隧道跨境出国SLA在线保障
+超高带宽接入晚高峰速率保障4k秒开
+流媒体支持
+支持但不限于 Chatgpt/Netfilx/Hulu/Hbo/Disney+/Dazn 等流媒体
+套餐优势
+全球 30+ 国家/地区， 50+ 节点
+设备支持
+Trojan 协议，不限制设备数量 。
+支持Android/iOS/Mac/Windows/Linux/路由器全平台
+
+👉[点击注册](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
 
 ### 高速机场推荐1【<a href="https://www.fastconnectcloud1.com//#/register?code=9BV1HHRM" target="_blank">FCCloud</a>】
 
