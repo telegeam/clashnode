@@ -9,19 +9,11 @@
 
 ### Clash订阅链接
 
-- https://telegeam.github.io/clashnode/uploads/2024/05/0-20240514.yaml
-- https://telegeam.github.io/clashnode/uploads/2024/05/1-20240514.yaml
-- https://telegeam.github.io/clashnode/uploads/2024/05/2-20240514.yaml
-- https://telegeam.github.io/clashnode/uploads/2024/05/3-20240514.yaml
-- https://telegeam.github.io/clashnode/uploads/2024/05/4-20240514.yml
+<a href="https://telegeam.github.io/clashv2rayshare" target="_blank">点击跳转</a>
 
 ### V2ray订阅链接
 
-- https://telegeam.github.io/clashnode/uploads/2024/05/0-20240514.txt
-- https://telegeam.github.io/clashnode/uploads/2024/05/1-20240514.txt
-- https://telegeam.github.io/clashnode/uploads/2024/05/2-20240514.txt
-- https://telegeam.github.io/clashnode/uploads/2024/05/3-20240514.txt
-- https://telegeam.github.io/clashnode/uploads/2024/05/4-20240514.txt
+<a href="https://telegeam.github.io/clashv2rayshare" target="_blank">点击跳转</a>
 
 ## 更多clash节点订阅 ：
 
