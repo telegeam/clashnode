@@ -6,6 +6,19 @@
 <a href="https://www.fuye.fun/" target="_blank">科学上网详细教程</a>
 
 
+### [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+
+注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+
+
+试用：无
+
+便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+
+最大的缺点就是太便宜了
+
+* * *
+
 ### [宇宙机场](#宇宙机场)
 
 注册链接：[宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
