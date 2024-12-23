@@ -1,4 +1,4 @@
-# 12月22日17.22M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
+# 12月23日17.23M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://telegeam.github.io/clashnode" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -16,6 +16,39 @@
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
+
+* * *
+
+### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+
+注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+
+试用：
+
+最便宜的订阅有6元 60G/月。
+
+便宜是真便宜，9.9 元钱买1个月，每个月 140 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+
+最大的缺点就是太便宜了
+
+* * *
+
+### [fccloud](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+
+注册链接：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+
+
+试用：无
+
+最便宜的订阅有10元 150G/月。
+
+**特性如下**
+
++   超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
++   IPLC深港、沪美、沪日专线，
++   流媒体完美解锁（包括Netflix , Disney+, HBO等）
++   完美解锁ChatGPT、Gemini、Copilot
++   支持Tiktok本土短视频运营和直播
 
 * * *
 
