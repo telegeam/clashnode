@@ -1,4 +1,4 @@
-# 12月23日17.23M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
+# 12月24日17.24M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://telegeam.github.io/clashnode" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -11,7 +11,6 @@
 注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
 
 
-试用：无
 
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
@@ -22,8 +21,6 @@
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
 注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
-
-试用：
 
 最便宜的订阅有6元 60G/月。
 
@@ -36,9 +33,6 @@
 ### [fccloud](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
 
 注册链接：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
-
-
-试用：无
 
 最便宜的订阅有10元 150G/月。
 
@@ -56,8 +50,6 @@
 
 注册链接：[宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
 
-试用：
-
 最便宜的订阅有5元 1000G/月。
 
 流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
@@ -67,9 +59,6 @@
 ### [狗狗加速器](#狗狗加速器)
 
 注册链接：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
-
-
-试用：
 
 最便宜的订阅有15.8元 160G/月。
 
@@ -82,20 +71,14 @@
 注册链接：[uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh)
 
 
-试用：
-
 最便宜的订阅有5元 5000G/月。
 
 全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
-
-* * *
 
 ### [可乐云](#可乐云)
 
 注册链接：[eded.keley02.top](https://eded.keley02.top/#/login?code=TRbo3nMf)
 
-
-试用：
 
 最便宜的订阅有25元 120G/月。
 
@@ -106,9 +89,6 @@
 ### [spcloud](#spcloud)
 
 注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-
-试用：
 
 最便宜的订阅有10元 100G/月。
 
