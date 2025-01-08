@@ -1,14 +1,14 @@
 ---
-created: 2025-1-7T08:05:32+08:00
-modified: 2025-1-7T08:21:23+08:00
+created: 2025-1-8T08:05:32+08:00
+modified: 2025-1-8T08:21:23+08:00
 ---
-# 1月7日27.12M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
+# 1月8日27.18M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
 
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://telegeam.github.io/clashnode" target="_blank">点击跳转</a>
 
 ## clash使用教程：
 
-<a href="https://www.fuye.fun/" target="_blank">科学上网详细教程</a>
+<a href="https://www.nodeshare.xyz/" target="_blank">科学上网详细教程</a>
 
 
 ### [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
