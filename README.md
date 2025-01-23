@@ -11,9 +11,9 @@ modified: 2025-1-232T08:21:23+08:00
 <a href="https://www.nodeshare.xyz/" target="_blank">科学上网详细教程</a>
 
 
-### [EF](https://xsus2025.xyz/register?code=4rj0X9mc)
+### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[https://www.efcloud1.com](https://xsus2025.xyz/register?code=4rj0X9mc)
+注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 
@@ -132,7 +132,7 @@ modified: 2025-1-232T08:21:23+08:00
 
 ### 高速机场推荐4 EFCloud
 
-高速机场推荐4[【EFCloud】](https://xsus2025.xyz/register?code=4rj0X9mc)
+高速机场推荐4[【EFCloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 线路优势
 多地中转隧道跨境出国SLA在线保障
@@ -145,17 +145,17 @@ modified: 2025-1-232T08:21:23+08:00
 Trojan 协议，不限制设备数量 。
 支持Android/iOS/Mac/Windows/Linux/路由器全平台
 
-👉[点击注册](https://xsus2025.xyz/register?code=4rj0X9mc)
+👉[点击注册](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ### 高速机场推荐1【<a href="https://www.fastconnectcloud1.com//#/register?code=9BV1HHRM" target="_blank">FCCloud</a>】
 
 - 无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
 - 网站注册地址：【<a href="https://www.fastconnectcloud1.com//#/register?code=9BV1HHRM" target="_blank">EFCloud（点击注册）</a>】
 
-### 高速机场推荐2【<a href="https://xsus2025.xyz/register?code=4rj0X9mc" target="_blank">EFCloud</a>】
+### 高速机场推荐2【<a href="https://kkjiasu.top/#/register?code=lhGhQflc" target="_blank">EFCloud</a>】
 
 - 无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
-- 网站注册地址：【<a href="https://xsus2025.xyz/register?code=4rj0X9mc" target="_blank">EFCloud（点击注册）</a>】
+- 网站注册地址：【<a href="https://kkjiasu.top/#/register?code=lhGhQflc" target="_blank">EFCloud（点击注册）</a>】
 
 
 ## 工具推荐
