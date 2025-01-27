@@ -13,7 +13,7 @@ modified: 2025-1-272T08:21:23+08:00
 
 ### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册链接：[点击进入](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 
@@ -26,7 +26,7 @@ modified: 2025-1-272T08:21:23+08:00
 
 ### [冲上云霄](https://cpdd.one/?r=32083)
 
-注册链接：[cpdd.one](https://cpdd.one/?r=32083)
+注册链接：[点击进入](https://cpdd.one/?r=32083)
 
 试用：1天 1G
 
@@ -38,7 +38,7 @@ modified: 2025-1-272T08:21:23+08:00
 
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
-注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
 最便宜的订阅有6元 60G/月。
 
@@ -67,7 +67,7 @@ modified: 2025-1-272T08:21:23+08:00
 
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
-注册链接：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
 
 
 试用：
@@ -80,7 +80,7 @@ modified: 2025-1-272T08:21:23+08:00
 
 ### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
 
-注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -93,7 +93,7 @@ modified: 2025-1-272T08:21:23+08:00
 
 ### [狗狗加速器](#狗狗加速器)
 
-注册链接：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
+注册链接：[点击进入](https://www.dginv.click/#/register?code=yi5aid0d)
 
 最便宜的订阅有15.8元 160G/月。
 
