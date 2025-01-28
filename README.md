@@ -1,8 +1,8 @@
 ---
-created: 2025-1-27T08:05:32+08:00
-modified: 2025-1-272T08:21:23+08:00
+created: 2025-1-28T08:05:32+08:00
+modified: 2025-1-282T08:21:23+08:00
 ---
-# 1月27日17.5M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
+# 1月28日17.9M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
 
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://telegeam.github.io/clashnode" target="_blank">点击跳转</a>
 
@@ -20,6 +20,18 @@ modified: 2025-1-272T08:21:23+08:00
 便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
+
+* * *
+### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+
+注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
+
+
+试用：
+
+最便宜的订阅有9元 120G/月。
+
+最高速度不限制；解锁Netflix/Disney+/HBO/HULU；解锁chatGPT；全球20个节点；连接设备数5个；客服技术支持
 
 * * *
 
@@ -47,7 +59,19 @@ modified: 2025-1-272T08:21:23+08:00
 最大的缺点就是太便宜了
 
 * * *
+### [冰灵加速器](https://sulian.info/#/register?code=3R5DYYrL)
 
+注册链接：[点击进入](https://sulian.info/#/register?code=3R5DYYrL)
+
+试用：
+
+最便宜的订阅有5.9元 39G/月。
+
+便宜是真便宜，8.9 元钱买1个月，每个月 129 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+
+最大的缺点就是太便宜了
+
+* * *
 <!---### [fccloud](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
 
 注册链接：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
@@ -65,18 +89,6 @@ modified: 2025-1-272T08:21:23+08:00
 * * *
 ----->
 
-### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
-
-注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
-
-
-试用：
-
-最便宜的订阅有9元 120G/月。
-
-最高速度不限制；解锁Netflix/Disney+/HBO/HULU；解锁chatGPT；全球20个节点；连接设备数5个；客服技术支持
-
-* * *
 
 ### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
 
