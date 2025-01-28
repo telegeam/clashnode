@@ -28,6 +28,12 @@
     <link href="/clashnode/assets/addons/xcblog/css/clashnode/bootsnav.css" rel="stylesheet" />
     <link href="/clashnode/assets/addons/xcblog/css/clashnode/style.css" rel="stylesheet">
     <link href="/clashnode/assets/addons/xcblog/css/clashnode/responsive.css" rel="stylesheet" />
+	  <!-- 引入 Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <style>
     <!-- ========== End Stylesheet ========== -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -301,19 +307,28 @@ ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
 </div>
 </div>					
 </div>	
-  <!-- Modal -->
-    <div class="modal fade" id="qrcodeModal" tabindex="-1" role="dialog" aria-labelledby="qrcodeModalLabel">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" id="qrcodeModalLabel">请扫码</h4>
-                </div>
-                <div class="modal-body" id="qrcode-box" align="center">
-                </div>
+<div class="container">
+    <h1>二维码弹窗示例</h1>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#qrcodeModal">
+        显示二维码
+    </button>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="qrcodeModal" tabindex="-1" role="dialog" aria-labelledby="qrcodeModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="qrcodeModalLabel">请扫码</h4>
+            </div>
+            <div class="modal-body" id="qrcode-box" align="center">
+                <img src="https://api.qrserver.com/v1/create-qr-code/?data=Hello%20World&size=200x200" alt="二维码">
             </div>
         </div>
     </div>
+</div>
+
 <div class="gotop-wrapper"><a href="javascript:;" class="fixed-gotop gotop"></a></div>
 
 <script src="https://media.shadowsocksr.org/assets/addons/xcblog/js/frontend/iconpark.js"></script>
