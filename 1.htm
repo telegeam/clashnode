@@ -20,13 +20,6 @@
     <link href="/clashnode/assets/addons/xcblog/css/clashnode/style.css" rel="stylesheet">
     <!-- ========== End Stylesheet ========== -->
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="/clashnode/assets/addons/xcblog/js/frontend/clashnode/html5/html5shiv.min.js"></script>
-      <script src="/clashnode/assets/addons/xcblog/js/frontend/clashnode/html5/respond.min.js"></script>
-    <![endif]-->
-
     <!-- ========== Google Fonts ========== -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800&display=swap" rel="stylesheet">
 </head>
@@ -52,18 +45,54 @@
                         <li><a href="https://shop.nodeshare.xyz/">TG账号商店 </a></li>
                         <li><a href="https://www.nodeshare.xyz">客户端</a></li>
                         <li><a href="/clashnode/1.htm">免费实时节点</a></li>
-                        <li><a href="https://telegeam.github.io/">TG电报纸飞机频道群组 - Telegram频道群组导航</a></li>
+                        <li><a href="https://telegeam.github.io/">Tg电报纸飞机频道群组 - Telegram频道群组导航</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
 
-    <div class="container">
-        <h1>二维码弹窗示例</h1>
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#qrcodeModal">
-            显示二维码
-        </button>
+    <div class="blog-area single full-blog default-padding">
+        <div class="container">
+            <div class="blog-items">
+                <div class="row">
+                    <div class="blog-content col-lg-10 offset-lg-1 col-md-12">
+                        <div class="item">
+                            <div class="blog-item-box">
+                                <div class="content">
+                                    <div id="blog-detail" class="panel panel-default">
+                                        <div class="panel-heading">
+                                            <h1 class="my-1">免费节点实时更新</h1>
+                                        </div>
+                                        <div class="panel-body">
+                                            <ul>
+                                                <li>最快1小时更新一次，节点支持Shadowsocksr,Clash,V2ray等多种客户端</li>
+                                                <li>为保持节点的可用性，请不要在公共区域分发节点，避免滥用。</li>
+                                                <li>无需更新、跑满带宽、更多节点，请自行选择付费机场服务。</li>
+                                            </ul>
+                                            <div class="row">
+                                                <div class="col-sm-6 col-md-4">
+                                                    <div class="thumbnail">
+                                                        <div class="caption" data-value="ssr://NDYuMjkuMTYyLjcyOjE1MTUyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0hrMi8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJRJmdyb3VwPVRHNWpiaTV2Y21j">
+                                                            <h3>SSR - 1</h3>
+                                                            <p>
+                                                                <a href="javascript:;" class="btn btn-primary js_qrcode" role="button">二维码</a>
+                                                                <a href="javascript:;" class="btn btn-default js_copy" role="button">复制</a>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- 其他 SSR 项目... -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <!-- Modal -->
@@ -81,24 +110,32 @@
         </div>
     </div>
 
+    <div class="gotop-wrapper"><a href="javascript:;" class="fixed-gotop gotop"></a></div>
+
     <script src="https://media.shadowsocksr.org/assets/libs/jquery/dist/jquery.min.js"></script>
     <script src="https://media.shadowsocksr.org/assets/libs/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="https://shadowsocksr.org/assets/addons/xcblog/js/frontend/qrcode.min.js"></script>
     <script>
-        $(function () {
-            $('.js_qrcode').click(function () {
+        $(function() {
+            var qrcode = new QRCode(document.getElementById("qrcode-box"), {
+                width: 300,
+                height: 300
+            });
+
+            $('.js_qrcode').click(function() {
                 var that = $(this);
                 var value = that.parents('.caption').data('value');
-                $('#qrcode-box img').attr('src', 'https://api.qrserver.com/v1/create-qr-code/?data=' + encodeURIComponent(value) + '&size=200x200');
+                qrcode.makeCode(value);
                 $('#qrcodeModal').modal('show');
             });
 
-            $('.js_copy').click(function () {
+            $('.js_copy').click(function() {
                 var that = $(this);
                 var value = that.parents('.caption').data('value');
 
-                navigator.clipboard.writeText(value).then(function () {
+                navigator.clipboard.writeText(value).then(function() {
                     alert("复制成功");
-                }, function () {
+                }, function() {
                     alert("复制失败");
                 });
             });
