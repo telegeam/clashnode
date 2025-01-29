@@ -1,8 +1,8 @@
 ---
-created: 2025-1-28T08:05:32+08:00
-modified: 2025-1-282T08:21:23+08:00
+created: 2025-1-29T08:05:32+08:00
+modified: 2025-1-29T08:21:23+08:00
 ---
-# 1月28日17.9M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
+# 1月29日17.9M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
 
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://telegeam.github.io/clashnode" target="_blank">点击跳转</a>
 
