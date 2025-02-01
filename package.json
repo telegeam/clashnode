@@ -1,0 +1,7 @@
+{
+  "name": "clashv2rayu.github.io",
+  "version": "1.0.0",
+  "scripts": {
+    "generate-sitemap": "node generate-sitemap.js"
+  }
+}
