@@ -1,8 +1,8 @@
 ---
-created: 2025-4-23T08:05:32+08:00
-modified: 2025-4-23T08:21:23+08:00
+created: 2025-4-25T08:05:32+08:00
+modified: 2025-4-25T08:21:23+08:00
 ---
-# 4月23日18.2M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
+# 4月25日18.2M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
 
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://telegeam.github.io/clashnode" target="_blank">点击跳转</a>
 
@@ -158,22 +158,7 @@ modified: 2025-4-23T08:21:23+08:00
 
 👉注册地址： [【轻云官网（点击注册）】](https://a1.qingyun.site/#/register?code=tIk5c8YQ)
 
-### 高速机场推荐4 KK加速
 
-高速机场推荐4[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-线路优势
-多地中转隧道跨境出国SLA在线保障
-超高带宽接入晚高峰速率保障4k秒开
-流媒体支持
-支持但不限于 Chatgpt/Netfilx/Hulu/Hbo/Disney+/Dazn 等流媒体
-套餐优势
-8元200G
-设备支持
-Trojan 协议，不限制设备数量 。
-支持Android/iOS/Mac/Windows/Linux/路由器全平台
-
-👉[点击注册](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 <!---### 高速机场推荐1【<a href="https://www.fastconnectcloud1.com//#/register?code=9BV1HHRM" target="_blank">FCCloud</a>】
 
