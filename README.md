@@ -1,8 +1,8 @@
 ---
-created: 2025-5-28T08:05:32+08:00
-modified: 2025-5-28T08:21:23+08:00
+created: 2025-5-29T08:05:32+08:00
+modified: 2025-5-29T08:21:23+08:00
 ---
-# 5月28日18.2M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
+# 5月29日18.2M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
 
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://telegeam.github.io/clashnode" target="_blank">点击跳转</a>
 
@@ -160,15 +160,15 @@ modified: 2025-5-28T08:21:23+08:00
 
 
 
-<!---### 高速机场推荐1【<a href="https://www.fastconnectcloud1.com//#/register?code=9BV1HHRM" target="_blank">FCCloud</a>】
+<!---### 高速机场推荐1【<a href="https://cpdd.one/?r=42354" target="_blank">冲上云霄</a>】
 
 - 无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
-- 网站注册地址：【<a href="https://www.fastconnectcloud1.com//#/register?code=9BV1HHRM" target="_blank">KK加速（点击注册）</a>】
+- 网站注册地址：【<a href="https://cpdd.one/?r=42354" target="_blank">冲上云霄（点击注册）</a>】
 
-### 高速机场推荐2【<a href="https://kkjiasu.top/#/register?code=lhGhQflc" target="_blank">KK加速</a>】
+### 高速机场推荐2【<a href="https://flybit.vip/#/register?code=iV0dLWfT" target="_blank">FlyBit</a>】
 
 - 无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
-- 网站注册地址：【<a href="https://kkjiasu.top/#/register?code=lhGhQflc" target="_blank">KK加速（点击注册）</a>】--->
+- 网站注册地址：【<a href="https://flybit.vip/#/register?code=iV0dLWfT" target="_blank">FlyBit（点击注册）</a>】--->
 
 
 ## 工具推荐
