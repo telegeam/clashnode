@@ -1,17 +1,25 @@
 ---
-created: 2025-6-13T08:05:32+08:00
-modified: 2025-6-13T08:21:23+08:00
+created: 2025-6-14T08:05:32+08:00
+modified: 2025-6-14T08:21:23+08:00
 ---
-# 6月13日18.6M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
+# 6月14日18.6M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
 
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://telegeam.github.io/clashnode" target="_blank">点击跳转</a>
 
 ## clash使用教程：
 
-<a href="https://www.nodeshare.xyz/" target="_blank">科学上网详细教程</a>
+<a href="[https://www.nodeshare.xyz/](https://yfuye.com/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b)" target="_blank">科学上网详细教程</a>
 
 
+### [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
+原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+试用:1天2G
+解锁奈飞迪士尼
+
+注册地址：[【88云加速（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+*  *   *
 
 
 ### [冲上云霄](https://cpdd.one/?r=42354)
