@@ -37,9 +37,9 @@ modified: 2025-6-19T08:21:23+08:00
 * * *
 
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=tLBWwhPs)
 
-注册链接：[点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=tLBWwhPs)
 
 最便宜的订阅有6元 60G/月。
 
@@ -49,9 +49,9 @@ modified: 2025-6-19T08:21:23+08:00
 
 * * *
 
-### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+### [西游云](https://88cloud.dpdns.org/#/register?code=LQzUg4EU)
 
-注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LQzUg4EU)
 
 
 试用：
@@ -75,9 +75,9 @@ modified: 2025-6-19T08:21:23+08:00
 最大的缺点就是太便宜了
 
 * * *
-<!---### [fccloud](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+<!---### [fccloud](https://88cloud.dpdns.org/#/register?code=qGNvJ8Oy)
 
-注册链接：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+注册链接：[fastconnectcloud.net](https://88cloud.dpdns.org/#/register?code=qGNvJ8Oy)
 
 最便宜的订阅有10元 150G/月。
 
