@@ -1,8 +1,8 @@
 ---
-created: 2025-6-21T08:05:32+08:00
-modified: 2025-6-21T08:21:23+08:00
+created: 2025-6-22T08:05:32+08:00
+modified: 2025-6-22T08:21:23+08:00
 ---
-# 6月21日18.6M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
+# 6月22日18.1M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
 
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://telegeam.github.io/clashnode" target="_blank">点击跳转</a>
 
@@ -37,9 +37,9 @@ modified: 2025-6-21T08:21:23+08:00
 * * *
 
 
-### [星辰VPN](https://88cloud.dpdns.org/#/register?code=tLBWwhPs)
+### [星辰VPN](http://c.xcvpn.me/?path=register&code=jWv0CnPO)
 
-注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=tLBWwhPs)
+注册链接：[点击进入](http://c.xcvpn.me/?path=register&code=jWv0CnPO)
 
 最便宜的订阅有6元 60G/月。
 
