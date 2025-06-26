@@ -49,9 +49,9 @@ modified: 2025-6-25T08:21:23+08:00
 
 * * *
 
-### [西游云](https://88cloud.dpdns.org/#/register?code=LQzUg4EU)
+### [西游云](https://goudan.site/#/register?code=2mVFWPT1)
 
-注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LQzUg4EU)
+注册链接：[点击进入](https://goudan.site/#/register?code=2mVFWPT1)
 
 
 试用：
@@ -93,9 +93,9 @@ modified: 2025-6-25T08:21:23+08:00
 ----->
 
 
-### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
 
-注册链接：[点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
