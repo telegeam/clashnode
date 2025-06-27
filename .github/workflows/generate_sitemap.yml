@@ -9,10 +9,6 @@ on:
     # 每6小时获取一次
     - cron: '0 */12 * * *'
 
-  push:
-    branches:
-      - main
-
 jobs:
   generate-sitemap:
     runs-on: ubuntu-latest
