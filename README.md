@@ -2,7 +2,7 @@
 created: 2025-06-27
 modified: 2025-06-27
 ---
-# 6月26日18.5M/S|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
+# 今天更新|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
 
 <h2 class="heading-element" dir="auto" tabindex="-1"><a href="https://shop.nodeshare.xyz/" rel="nofollow"><span style="color: #ff0000;">TG账号商店 </span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售</span></span></h2>
 
@@ -11,7 +11,7 @@ modified: 2025-06-27
 
 ## clash使用教程：
 
-<a href="[https://www.nodeshare.xyz/](https://yfuye.com/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b)" target="_blank">科学上网详细教程</a>
+<a href="[https://www.yfuye.com/](https://yfuye.com/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b)" target="_blank">科学上网详细教程</a>
 
 
 ### [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
