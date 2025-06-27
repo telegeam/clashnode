@@ -1,6 +1,14 @@
 name: Generate Sitemap
 
+
+# 触发条件
 on:
+  workflow_dispatch:
+  # 定时触发
+  schedule:
+    # 每6小时获取一次
+    - cron: '0 */12 * * *'
+
   push:
     branches:
       - main
