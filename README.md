@@ -18,7 +18,7 @@ modified: 2025-07-06
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-试用:1天2G
+
 
 解锁奈飞迪士尼
 
