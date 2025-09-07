@@ -14,7 +14,7 @@ modified: 2025-09-07
 <a href="[https://www.yfuye.com/](https://yfuye.com/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b)" target="_blank">科学上网详细教程</a>
 
 
-### [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [【88云加速】](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
@@ -22,7 +22,7 @@ modified: 2025-09-07
 
 解锁奈飞迪士尼
 
-### 注册地址：[【88云加速（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### 注册地址：[【88云加速（点击注册）】](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
 *  *   *
 
