@@ -327,34 +327,7 @@
             </div>
         </div>
     </div>
- </script>			
-    <script>
-    $(function() {
-        var qrcode = new QRCode(document.getElementById("qrcode-box"), {
-            width: 300,
-            height: 300
-        });
 
-        $('.js_qrcode').click(function() {
-            var that = $(this);
-            var value = that.parents('.caption').data('value');
-            qrcode.makeCode(value);
-
-            $('#qrcodeModal').modal('show')
-        })
-
-        $('.js_copy').click(function() {
-            var that = $(this);
-            var value = that.parents('.caption').data('value');
-
-            var copyText = document.createElement("input");
-            copyText.select();
-            copyText.setSelectionRange(0, 99999);
-            navigator.clipboard.writeText(value);
-            alert("复制成功");
-        })
-    })
-    </script>
         <!-- Star Footer
     ============================================= -->
     <footer class="bg-dark text-light">
@@ -420,30 +393,64 @@
 <script defer src="https://media.clashnode.cc/assets/addons/xcblog/js/frontend/base.js"></script>
     <script src="https://clashnode.cc/assets/addons/xcblog/js/frontend/clipboard.min.js"></script>
     <script src="https://clashnode.cc/assets/addons/xcblog/js/frontend/qrcode.min.js"></script>
-	<script>
-    $(document).ready(function() {
-        // 1. Initialize the QRCode object, linking it to the modal's container
+	 </script>			
+    <script>
+    $(function() {
         var qrcode = new QRCode(document.getElementById("qrcode-box"), {
             width: 300,
             height: 300
         });
 
-        // 2. Click handler to generate QR code and show the modal
         $('.js_qrcode').click(function() {
             var that = $(this);
             var value = that.parents('.caption').data('value');
-            
-            // Generate the QR code image inside #qrcode-box
             qrcode.makeCode(value);
 
-            // Show the Bootstrap modal pop-up
-            $('#qrcodeModal').modal('show');
-        });
+            $('#qrcodeModal').modal('show')
+        })
 
-        // ... (The rest of your code, including the missing .js_copy function, would go here)
-    });
+        $('.js_copy').click(function() {
+            var that = $(this);
+            var value = that.parents('.caption').data('value');
+
+            var copyText = document.createElement("input");
+            copyText.select();
+            copyText.setSelectionRange(0, 99999);
+            navigator.clipboard.writeText(value);
+            alert("复制成功");
+        })
+    })
+    </script>
+  
 
 </body>
+ </script>			
+    <script>
+    $(function() {
+        var qrcode = new QRCode(document.getElementById("qrcode-box"), {
+            width: 300,
+            height: 300
+        });
 
+        $('.js_qrcode').click(function() {
+            var that = $(this);
+            var value = that.parents('.caption').data('value');
+            qrcode.makeCode(value);
+
+            $('#qrcodeModal').modal('show')
+        })
+
+        $('.js_copy').click(function() {
+            var that = $(this);
+            var value = that.parents('.caption').data('value');
+
+            var copyText = document.createElement("input");
+            copyText.select();
+            copyText.setSelectionRange(0, 99999);
+            navigator.clipboard.writeText(value);
+            alert("复制成功");
+        })
+    })
+    </script>
 </html>
                  
