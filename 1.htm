@@ -327,7 +327,34 @@
             </div>
         </div>
     </div>
- 
+ </script>			
+    <script>
+    $(function() {
+        var qrcode = new QRCode(document.getElementById("qrcode-box"), {
+            width: 300,
+            height: 300
+        });
+
+        $('.js_qrcode').click(function() {
+            var that = $(this);
+            var value = that.parents('.caption').data('value');
+            qrcode.makeCode(value);
+
+            $('#qrcodeModal').modal('show')
+        })
+
+        $('.js_copy').click(function() {
+            var that = $(this);
+            var value = that.parents('.caption').data('value');
+
+            var copyText = document.createElement("input");
+            copyText.select();
+            copyText.setSelectionRange(0, 99999);
+            navigator.clipboard.writeText(value);
+            alert("复制成功");
+        })
+    })
+    </script>
         <!-- Star Footer
     ============================================= -->
     <footer class="bg-dark text-light">
@@ -415,34 +442,7 @@
 
         // ... (The rest of your code, including the missing .js_copy function, would go here)
     });
-</script>			
-    <script>
-    $(function() {
-        var qrcode = new QRCode(document.getElementById("qrcode-box"), {
-            width: 300,
-            height: 300
-        });
 
-        $('.js_qrcode').click(function() {
-            var that = $(this);
-            var value = that.parents('.caption').data('value');
-            qrcode.makeCode(value);
-
-            $('#qrcodeModal').modal('show')
-        })
-
-        $('.js_copy').click(function() {
-            var that = $(this);
-            var value = that.parents('.caption').data('value');
-
-            var copyText = document.createElement("input");
-            copyText.select();
-            copyText.setSelectionRange(0, 99999);
-            navigator.clipboard.writeText(value);
-            alert("复制成功");
-        })
-    })
-    </script>
 </body>
 
 </html>
