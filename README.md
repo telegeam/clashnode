@@ -4,7 +4,7 @@ modified: 2025-10-27
 ---
 # 今天更新|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
 
-<h2 class="heading-element" dir="auto" tabindex="-1"><a href="https://shop.idbb.me/" rel="nofollow"><span style="color: #ff0000;">TG账号商店 </span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售</span></span></h2>
+<h2 class="heading-element" dir="auto" tabindex="-1"><a href="http://goso002.com?from=32977" rel="nofollow"><span style="color: #ff0000;">TG账号商店 </span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售</span></span></h2>
 
 
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://telegeam.github.io/clashnode" target="_blank">点击跳转</a>
