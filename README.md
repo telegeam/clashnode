@@ -1,6 +1,6 @@
 ---
-created: 2025-11-23
-modified: 2025-11-23
+created: 2025-11-24
+modified: 2025-11-24
 ---
 # 今天更新|SSR/Shadowrocket/V2ray/Clash免费节点每天更新订阅链接  
 
@@ -106,9 +106,9 @@ modified: 2025-11-23
 ----->
 
 
-### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.vip/#/register?code=iV0dLWfT)
 
-注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://flybit.vip/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
